@@ -1,0 +1,6 @@
+{
+  "name": "کیمیا پوشاک | Kimia Clothing",
+  "description": "فروشگاه مزونی و لوکس پوشاک کودک و نوجوان با دیزاین سیستم Tender Luxury، احراز هویت پیامکی، سایزبندی هوشمند و درگاه پرداخت آنلاین",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
